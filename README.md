@@ -1,3 +1,3 @@
 # nucampsite
-NuCamp Project
+NuCamp Bootstrap Project
 Nucamp camp ground
